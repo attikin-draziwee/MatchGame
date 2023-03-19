@@ -15,4 +15,8 @@
     <Resource Include="icon.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Emoji.Wpf" Version="0.3.4" />
+  </ItemGroup>
+
 </Project>
